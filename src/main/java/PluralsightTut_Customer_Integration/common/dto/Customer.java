@@ -1,4 +1,4 @@
-package PluralsightTut_CustomerIntegration.common.dto;
+package PluralsightTut_Customer_Integration.common.dto;
 
 /**
  * Customer Data Object

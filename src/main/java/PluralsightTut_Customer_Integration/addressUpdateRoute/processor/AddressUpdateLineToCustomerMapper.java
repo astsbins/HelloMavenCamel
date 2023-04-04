@@ -1,6 +1,6 @@
-package PluralsightTut_CustomerIntegration.addressUpdateRoute.processor;
+package PluralsightTut_Customer_Integration.addressUpdateRoute.processor;
 
-import PluralsightTut_CustomerIntegration.common.dto.Customer;
+import PluralsightTut_Customer_Integration.common.dto.Customer;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package PluralsightTut_CustomerIntegration.common.controller;
+package PluralsightTut_Customer_Integration.common.controller;
 
-import PluralsightTut_CustomerIntegration.common.dto.Customer;
+import PluralsightTut_Customer_Integration.common.dto.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
